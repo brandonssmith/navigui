@@ -1,5 +1,7 @@
 # Navidrome Configuration GUI
 
+PLEASE NOTE: This project has been abondened due to Navidrome's difficulty with Windows permissions. Therefore it will not be updated. Feel free to steal it and modify if you want to.
+
 A user-friendly graphical interface for configuring [Navidrome](https://github.com/navidrome/navidrome), the open-source music streaming server.
 
 Basically I got sick of trying to configure Navidrome through a text interface so I wroate a quick gui for the config. It loads your navidrome.toml file, allows you to modify it and then save back to it.
@@ -164,3 +166,4 @@ Feel free to submit issues, feature requests, or pull requests to improve the GU
 ## License
 
 This GUI is provided as-is to help users configure Navidrome. Navidrome itself is licensed under GPL-3.0.
+
